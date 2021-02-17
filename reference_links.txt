@@ -1,3 +1,7 @@
+
+Reference - what is the Raspberry Pi:
+https://realpython.com/python-raspberry-pi/
+
 ====== Top Links
 https://learn.adafruit.com/adafruit-pioled-128x32-mini-oled-for-raspberry-pi/usage
 https://learn.adafruit.com/circuitpython-on-raspberrypi-linux/installing-circuitpython-on-raspberry-pi#enable-i2c-and-spi-3-5
