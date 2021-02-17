@@ -1,59 +1,45 @@
 ====== Top Links
+https://learn.adafruit.com/adafruit-pioled-128x32-mini-oled-for-raspberry-pi/usage
+https://learn.adafruit.com/circuitpython-on-raspberrypi-linux/installing-circuitpython-on-raspberry-pi#enable-i2c-and-spi-3-5
+===========
 https://www.lookingpoint.com/blog/adventure-1-consolepi
 https://serverfault.com/questions/209599/how-to-setup-etc-issues-to-show-the-ip-address-for-eth0#825582
 https://keithstechblog.wordpress.com/2017/11/15/linux-tweak-1-disable-num-lock-hint/
 https://www.cyberciti.biz/faq/howto-change-login-message/
-
 https://stackoverflow.com/questions/12727175/set-static-ip-if-not-obtained-from-dhcp-script#12728345
 https://networklessons.com/uncategorized/raspberry-pi-as-cisco-console-server
 ===========
-
 https://packetpushers.net/raspberry-pi-cisco-configuration-device/
-
 https://www.packet6.com/configuring-your-raspberry-pi-as-a-console-server/
-
 https://www.jpaul.me/2019/01/how-to-build-a-raspberry-pi-serial-console-server-with-ser2net/
-
 https://www.ifconfig.it/hugo/post/piconsole1/
 https://www.ifconfig.it/hugo/post/piconsole2/
-
 https://mikethrom.com/my-headless-pi-zero-w-setup-part-one/
-
 https://keithstechblog.wordpress.com/category/computers/raspberry-pi/
-
 https://learn.adafruit.com/adafruits-raspberry-pi-lesson-5-using-a-console-cable?view=all
 https://www.adafruit.com/product/3410 Raspberry Pi Zero W Budget Pack - Includes Pi Zero W
-
 === Display HAT ===
-
+https://healeycodes.com/hacking-together-an-e-ink-dashboard/
 https://www.instructables.com/id/How-a-headless-Raspberry-Pi-can-tell-you-its-IP-ad/
-
 https://github.com/IOT-MCU/IIC-Pi-OLED/wiki
-
 https://www.instructables.com/id/How-a-headless-Raspberry-Pi-can-tell-you-its-IP-ad/
-
 https://the-iot.cloud/archives/364
-
 https://www.waveshare.com/wiki/2.7inch_e-Paper_HAT
-
 https://github.com/IOT-MCU/IIC-Pi-OLED/wiki
-
 https://www.adafruit.com/product/4393 Adafruit Mini PiTFT - 135x240 Color TFT Add-on for Raspberry Pi
-https://www.adafruit.com/product/954  USB to TTL Serial Cable - Debug / Console Cable for Raspberry Pi
-
+https://www.adafruit.com/product/954 USB to TTL Serial Cable - Debug / Console Cable for Raspberry Pi
+https://www.littlebird.com.au/
 ===
-
 https://gist.github.com/jctosta/af918e1618682638aa82 Screen Quick Reference
 https://linoxide.com/linux-command/15-examples-screen-command-linux-terminal/
 https://linuxize.com/post/how-to-use-linux-screen/
 https://www.kilobitspersecond.com/2014/02/10/understanding-gnu-screens-hardstatus-strings/
 https://github.com/gagle/raspberrypi-motd
-
 https://github.com/beagleboard/pocketbeagle
 https://www.seeedstudio.com/
-
 https://www.ostechnix.com/how-to-edit-multiple-files-using-vim-editor/
-
 https://vmandela.com/blog/2019/2019-05-28-serial-port-tools.html
-
 https://carmalou.com/how-to/2017/08/16/how-to-generate-passcode-for-raspberry-pi.html
+====================
+
+
