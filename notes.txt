@@ -1,5 +1,0 @@
-#=== Remove Numlock warning at login screen
-sudo vim /lib/systemd/system/getty@.service
-	#modify the below line to include the 'nohints' as shown
-	execStart=-/sbin/agetty -o '-p -- \\u' --noclear --nohints %I $TERM
-
