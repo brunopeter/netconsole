@@ -1,0 +1,19 @@
+#=================================
+#=== Mini-Display
+#=================================
+sudo apt-get install python3-pip
+sudo pip3 install --upgrade setuptools
+sudo pip3 install --upgrade adafruit-python-shell
+wget https://raw.githubusercontent.com/adafruit/Raspberry-Pi-Installer-Scripts/master/raspi-blinka.py
+sudo python3 raspi-blinka.py
+sudo echo dtoverlay=spi1-3cs >> /boot/config.txt
+
+sudo apt-get install python3-pil
+#sudo pip3 install adafruit-circuitpython-ssd1306
+sudo usermod -aG gpio,i2c networks	# needed so non-root user can interact with display
+
+(crontab -l 2>/dev/null; echo '@reboot python3 /home/networks/minidisplay.py > /dev/null 2>&1') | crontab -
+
+(crontab -l 2>/dev/null; echo '@reboot python3 /home/networks/minidisplay.py &') | crontab -
+#sudo echo "$(echo '@reboot python3 /home/networks/minidisplay.py >/dev/null 2>&1' ; crontab -l)" | crontab -
+#===
