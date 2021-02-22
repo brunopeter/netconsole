@@ -46,4 +46,5 @@ https://vmandela.com/blog/2019/2019-05-28-serial-port-tools.html
 https://carmalou.com/how-to/2017/08/16/how-to-generate-passcode-for-raspberry-pi.html
 ====================
 
-
+# A different approach, using telnet:port
+https://github.com/Keith-OGIT/FirstSteps/blob/master/Terminal%20Server%20Pi/Steps%20for%20Pi%20Terminal%20Server
